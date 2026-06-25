@@ -1,0 +1,13 @@
+# Claude Code local settings (machine-specific; keep agents/ tracked)
+.claude/settings.local.json
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
+
+# Scratch / temp
+scratchpad/
+*.tmp
