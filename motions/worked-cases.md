@@ -192,3 +192,33 @@ Add a **weighing sentence** after each argument ("this outweighs their case beca
 - **b→c:** More cash chasing the same goods → prices rise, especially rent, because demand outstrips fixed supply.
 - **¬a→¬b:** No UBI → no broad cash injection, because support is smaller and targeted.
 - **¬b→¬c:** No injection → prices stay stable, because aggregate demand doesn't spike.
+
+# Motion 1: THW cancel the debt of developing nations
+
+## Proposition
+
+### P1 — Growth And Development
+- **a→b:** No debt → More capital
+- **b→c:** More Capital → More infrastructure, education, innovation
+- **¬a→¬b:** Debt → No Capital, take loans to pay off debt having more debt
+- **¬b→¬c** No Capital → No infrastructure, no funds for education, no innovation, stuck in a cycle
+
+### P2 - Escaping Cycles of Poverty
+- **a→b:** No debt → More capital
+- **b→c:** More Capital → More infrastructure, education, innovation
+- **¬a→¬b:** Debt → No Capital, take loans to pay off debt having more debt
+- **¬b→¬c** No Capital → No infrastructure, no funds for education, no innovation, stuck in a cycle
+
+### P3 - Climate Justice
+- **a→b:** No debt → More capital
+- **b→c:** More Capital → More infrastructure, education, innovation
+- **¬a→¬b:** Debt → No Capital, take loans to pay off debt having more debt
+- **¬b→¬c** No Capital → No infrastructure, 
+
+## Opposition:
+
+### O1:
+
+### 02:
+
+### 03:

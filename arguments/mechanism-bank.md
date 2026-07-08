@@ -15,6 +15,9 @@ each ("and this matters more than their argument because…").
 
 > ⚠️ **Scaffolds, not scripts.** These are structures to *adapt*, never lines to recite. If a chain sounds memorised, you've used it wrong — judges punish canned delivery. The **weakest-link** tags are there to make you think, not parrot.
 
+> 🔎 Mechanisms tagged with a *(block: [[…]])* link were **distilled from Lucas's own graded
+> speeches (Days 1–11)** by the `distill-arguments` skill — the block shows where the chain fired and how it scored.
+
 ---
 
 ## ECONOMY
@@ -90,6 +93,75 @@ each ("and this matters more than their argument because…").
 
 > **Weakest link:** Aff link 2 assumes **private allocation always beats public**. Prop attacks: markets misallocate (bubbles, short-termism, ignoring public goods), and public investment in infrastructure/R&D/education *raises* productivity rather than lowering it.
 
+### Progressive Health Dividend of Sin Taxes  *(Prop — every "sin tax is regressive" clash)*
+**Aff (sin tax → heaviest users respond most → vulnerable group gains most):**
+1. Sin tax → the heaviest users cut back the most *because* the cumulative cost bites them hardest.
+2. Heaviest users are disproportionately low-income → the largest behaviour change lands on the group opp defends.
+3. Largest change → largest health benefit to the poor *because* they were carrying the most consumption harm.
+
+**CF (no tax → the poor keep the harm):**
+1. No tax → the cheapest option stays the unhealthy one *because* price sets the low-income default.
+2. Unhealthy default → the poor keep the highest consumption *because* they can't afford the healthy substitute.
+3. Highest consumption → they bear the concentrated health harm *because* damage tracks the dose.
+
+> **Weakest link:** Aff link 2 (heaviest users = low-income). Opp attacks: if the good is consumed evenly across income, the "progressive dividend" collapses and it's just regressive. Defend with consumption data (Mexico's lowest-SES households cut the most).
+> **They say → I say:** *They say:* the poor spend a larger income share, so it's regressive. → *I say:* financial incidence ≠ welfare incidence — they pay a bit more OR change behaviour and gain the most health; recycle revenue as rebates to kill the money burden. *(block: [[prop-regressive-tax-turn]])*
+
+### Moral Hazard / Unearned Windfall  *(Prop — abolishing/limiting transfers)*
+**Aff (remove the windfall → recipient strives):**
+1. Removing the guaranteed transfer → the recipient faces real stakes *because* their standard of living now depends on their own output.
+2. Real stakes → effort and skill-building *because* there is no fallback to coast on.
+3. Effort → developed capacities / self-fulfilment *because* achievement is earned and abilities grow under challenge.
+
+**CF (guaranteed windfall → reduced striving):**
+1. Guaranteed windfall → baseline secured regardless of effort *because* wealth arrives unconditionally.
+2. Secured baseline → weaker incentive to strive *because* the marginal payoff of effort falls.
+3. Weaker incentive → underdeveloped potential *because* capacities atrophy without challenge.
+
+> **Weakest link:** CF link 2 (security → coasting). Opp: security *enables* striving (funds education, risk-taking). **Run at the margin only; never claim it universally** — that's exactly what got Day-2 called a "caricature."
+> **They say → I say:** *They say:* financial security frees people to take risks. → *I say:* distinguish security that removes desperation from wealth that removes all stakes; the effect is marginal, not total. *(block: [[prop-inheritance-kills-self-fulfilment]])*
+
+### Diminishing Marginal Utility / Reallocation  *(Prop — redistribution)*
+**Aff (redirect wealth → more welfare):**
+1. Redirect wealth from a comfortable holder to the needy → each dollar moves to a poorer recipient *because* the transfer changes who holds it.
+2. Poorer recipient → higher marginal utility per dollar *because* the dollar buys survival needs, not luxuries.
+3. Higher marginal utility → greater total welfare *because* the same money produces more well-being.
+
+**CF (wealth stays with the comfortable → welfare foregone):**
+1. Wealth stays in-family → dollars sit with an already-satisfied recipient.
+2. Comfortable recipient → low marginal utility *because* basic needs are already met.
+3. Low utility → welfare foregone *because* the money's welfare potential goes unused.
+
+> **Weakest link:** Aff link 1 — assumes the money actually *reaches* the needy rather than the state, waste, or the holder's own spending. **The routing must be specified** (the exact gap the coach flagged on Day 2).
+> **They say → I say:** *They say:* taking it from the heir doesn't send it to charity. → *I say:* name the channel (charitable incentive / spent-in-life stimulus / state redistribution); the utility gain only holds once routing is proven. *(block: [[prop-charity-beats-heir-marginal-utility]])*
+
+### Demand-Pull Inflation  *(Opp — against broad cash transfers)*
+> ⚠️ Label flip: run by **Opp**. "Case side" = the transfer happens; the harm is the outcome.
+
+**Case side (transfer → real gain erased):**
+1. Universal cash → aggregate demand rises *because* everyone can suddenly pay more for the same goods.
+2. Higher demand, fixed short-run supply → prices rise *because* sellers lift prices on inelastic essentials (food, housing).
+3. Rising prices → the poor's real purchasing power is unchanged *because* their nominal gain is cancelled.
+
+**Counter side (targeted/no universal transfer → prices stable):**
+1. Aid only to the poor → aggregate demand barely moves *because* the recipient pool is small.
+2. Stable demand → prices hold. 3. Stable prices → the aid keeps its real value.
+
+> **Weakest link:** Case-side link 2. Prop: a *tax-funded* UBI redistributes existing demand rather than adding it, so no net inflation. Defend by narrowing to inelastic essentials + the short run.
+> **They say → I say:** *They say:* tax-funded UBI just moves money. → *I say:* it still shifts demand toward the necessities the poor buy, bidding up exactly those prices. *(block: [[opp-ubi-inflation-erodes-purchasing-power]])*
+
+### Targeting vs. Universalism / Fixed-Pool Leakage  *(Opp — universal-benefit motions)*
+**Aff (targeting → more reaches the poor):**
+1. Fixed budget + universal payout → most dollars go to the non-poor *because* the majority aren't poor and receive an equal share.
+2. Dollars to the non-poor → less reaches each needy person *because* the pool is diluted across everyone.
+3. Diluted aid → the poor gain little *because* a thin universal slice can't cover housing/food/training.
+
+**CF (universalism → full coverage):**
+1. Universal payout → no eligible person is missed. 2. No missing → "leakage" is the price of full coverage. 3. Full coverage → dignity + no stigma.
+
+> **Weakest link:** Aff link 3 assumes targeting reaches the poor efficiently. Prop: means-testing misses eligible people, adds stigma + its own bureaucracy. Defend: imperfect targeting still concentrates far more per needy person than universal dilution.
+> **They say → I say:** *They say:* targeting misses people and adds bureaucracy. → *I say:* admin cost is a fraction of what's saved by not paying the 90%+ who don't need it. *(block: [[opp-targeted-welfare-fixed-pool]])*
+
 ---
 
 ## RIGHTS
@@ -126,6 +198,69 @@ each ("and this matters more than their argument because…").
 1. No intervention → the "neutral" rule keeps its bias *because* it encodes historical exclusion.
 2. Hidden bias → the group stays behind *because* they lack the inherited advantage the rule assumes.
 3. Staying behind → the gap compounds *because* each generation inherits the previous one's disadvantage.
+
+### Moral Agency / Rights-Denial  *(usually Opp — resists an "X has an inviolable right" claim)*
+> ⚠️ Label note: run by the side DENYING a right holds absolutely. "Deny side" = the right isn't at full strength.
+
+**Deny side (no agency → welfare, not inviolability):**
+1. A right → pairs with a reciprocal obligation *because* a right is a claim others are duty-bound to honour.
+2. The holder must be a moral agent *because* only an agent can recognise and discharge the reciprocal duty.
+3. A non-agent → owed welfare, not inviolability *because* sentience grounds "don't inflict needless suffering" but not "may never be used to help others."
+
+**Claim side (sentience → inviolable right):** 1. Sentience → morally considerable. 2. Interests that count → a right against being used. 3. Right against use → inviolability.
+
+> **Weakest link:** Deny-side link 2 (holder must be an agent). Attack via **marginal cases** — infants / the severely disabled aren't full agents yet hold rights. Defend by assigning rights by **species-typical capacity + moral-community membership**, not a per-person agency audit.
+> **They say → I say:** *They say:* this strips infants/the disabled of rights. → *I say:* rights attach by kind and community membership; suffering grounds welfare duties (don't torture), not inviolability (never use). *(block: [[opp-moral-agency-rights-denial]]; this is the argument that broke 7.75)*
+
+### Vitiated Consent / Manufactured Choice  *(the counter to Autonomy / Anti-Paternalism)*
+**Aff (choice is engineered → consent not free → protection justified):**
+1. Product engineered to addict → the choice is manipulated *because* design exploits reward circuitry, not reasoned preference.
+2. Manipulated choice → consent isn't freely given *because* an addicted mind isn't choosing autonomously.
+3. No free consent → paternalist protection is justified *because* the autonomy objection presupposes a free choice that doesn't exist.
+
+**CF (treat choice as free → harm licensed):** 1. Assume autonomy → the choice is deemed the user's own. 2. Deemed free → no protection offered. 3. No protection → engineered harm continues behind the victim's "consent."
+
+> **Weakest link:** Aff link 2. Opp: slippery slope — does this void all consumer choice (coffee, sugar)? Defend by limiting to **minors + demonstrably engineered addiction**, not ordinary preference.
+> **They say → I say:** *They say:* this bans everything habit-forming. → *I say:* we limit it to minors and products engineered to defeat self-control — we already restrain minors' self-harming choices. *(block: [[prop-addiction-vitiates-consent]])*
+
+---
+
+## SOCIETY & BEHAVIOUR
+
+### Norm Cascade / Social Signaling  *(behaviour-change motions: smoking, seatbelts, plastic, meat)*
+**Aff (policy → norm flips → behaviour locks in):**
+1. Policy → the target behaviour visibly declines *because* a price/friction is attached and early adopters switch.
+2. Visible decline → the behaviour loses social status *because* "everyone is cutting back" makes it the minority choice.
+3. Lost status → consumption falls further *because* norm-following adds to the price effect and self-reinforces.
+
+**CF (no policy → norm holds):** 1. No policy → the behaviour stays common/cheap. 2. Common → stays socially normal *because* no visible shift signals otherwise. 3. Stays normal → consumption holds.
+
+> **Weakest link:** Aff link 2 (decline → lost status). Opp: a tax the rich shrug off makes no cultural shift, or the behaviour is private (drunk at home) so nobody signals. Defend by showing the behaviour is public/observable.
+> **They say → I say:** *They say:* you can't tax people into new values. → *I say:* smoking's collapse in status followed decades of tax + restriction — norms shifted downstream of policy. *(block: [[prop-tax-cuts-consumption]])*
+
+### Habit Formation / Participation Lock-in  *(compulsory voting, civic education, "start early/easy" motions)*
+**Aff (first experience in a stable setting → durable behaviour):**
+1. First participation in a stable, supported setting → it succeeds *because* low friction makes the first attempt easy and positive.
+2. Successful first attempt → a habit forms *because* repeated low-cost success turns an act into a routine.
+3. Habit → lifelong behaviour *because* established habits persist and pass to the next cohort.
+
+**CF (first experience in an unstable setting → never starts):**
+1. First chance amid upheaval → it misfires *because* competing life shocks crowd it out.
+2. Failed/absent first attempt → no habit forms. 3. No habit → chronically low participation *because* the act stays effortful forever.
+
+> **Weakest link:** Aff link 3 (habit → lifelong persistence). Opp attacks decay — early participation may be a novelty/parent-driven bump. Defend with first-time-boost data (Austria) + generational pass-down.
+> **They say → I say:** *They say:* it's a novelty spike that decays. → *I say:* the mechanism is habituation, not novelty — the early-start cohort stays elevated after the scaffold is gone. *(block: [[prop-first-vote-builds-lifelong-habit]])*
+
+### Substitution-Atrophy  *(convenient default displaces a skill — remote work, online school, social media)*
+**Aff (remove the substitute → skill-building resumes):**
+1. Remove the digital substitute → the need can't be met the easy way *because* the effortless channel is gone.
+2. Unmet need → people revert to the effortful real-world channel *because* the need (connection) is non-negotiable.
+3. Real-world channel → the skill develops *because* it demands the competencies the substitute let them skip.
+
+**CF (substitute remains → skill atrophies):** 1. Convenient substitute available → people take the low-effort channel. 2. Low-effort channel → the skill is never practised. 3. No practice → it atrophies/never forms.
+
+> **Weakest link:** Aff link 2 assumes removal *reroutes* rather than just *denies* the need. Opp: kids may get no connection at all, not better connection. Defend with the "non-negotiable need" premise + friend-group forcing logic.
+> **They say → I say:** *They say:* they'll just be isolated. → *I say:* the need for connection reroutes to the only remaining channel — in person; ~80% of online use is passive consumption, not skill-building practice. *(block: [[prop-real-world-development]])*
 
 ---
 
@@ -166,6 +301,28 @@ each ("and this matters more than their argument because…").
 2. Disproportionate cost → resentment and defection *because* the deal looks like ladder-pulling.
 3. Defection → the agreement collapses *because* climate action needs the biggest emitters to stay in.
 
+### State-Capacity / Development-First  *(Opp/Prop on growth-vs-environment — a poor state must grow to enforce)*
+**Aff (growth-first → environment protected):**
+1. Prioritise growth → the fiscal base expands *because* industry/jobs enlarge the taxable economy and lift citizens above subsistence.
+2. Bigger base → enforcement capacity exists *because* only a funded state pays inspectors, rangers, monitoring, clean-tech.
+3. Capacity → the environment is actually protected *because* laws only bite when someone is paid to police them.
+
+**CF (growth sacrificed → protection fails):** 1. Sacrifice growth → the state stays poor. 2. Poor state → no capacity, and desperate citizens strip resources to survive. 3. No capacity + desperation → the environment is degraded anyway (paper protections go unpoliced).
+
+> **Weakest link:** Aff link 3 — assumes capacity is *spent* on the environment (pollution-haven / Kuznets risk). Defend with cheap clean-tech now + the enforcement-failure of broke states.
+> **They say → I say:** *They say:* growth locks in irreversible damage before capacity arrives. → *I say:* poverty is degrading the environment *now*, and an unenforceable ban doesn't stop it. *(block: [[prop-growth-buys-enforcement-capacity]])*
+
+### Negligible-Contributor Futility  *(cross-link Ladder-Pulling & Free-Riding — the benefit-side arithmetic)*
+**Aff (small emitter opts out → little lost):**
+1. A negligible emitter cuts emissions → the global total barely moves *because* its share is a rounding error.
+2. Unmoved total → the climate outcome is unchanged *because* warming tracks the aggregate, driven by the big emitters.
+3. Unchanged outcome + real domestic cost → the cut is net-harmful *because* the country pays full price for near-zero benefit.
+
+**CF (small emitter sacrifices anyway → cost without benefit):** 1. Forgo growth to cut → bear the cost. 2. Cost borne → citizens lose development. 3. Development lost for ~zero climate gain → injustice.
+
+> **Weakest link:** Aff link 1 — "negligible" is false for fast-growing developing giants (India, Indonesia), ignores per-capita fairness, and if *every* small emitter reasons this way the sum is large (free-rider trap — cross-link Coordination/Free-Riding). Defend by scoping to genuinely tiny emitters + pointing leverage at the top emitters.
+> **They say → I say:** *They say:* if everyone says "we're too small," nobody acts. → *I say:* the marginal ton is cheapest to cut in the big high-emitters — target them, don't make the poorest pay. *(block: [[prop-poor-nations-emit-negligibly]])*
+
 ---
 
 ## INSTITUTIONS
@@ -203,6 +360,17 @@ each ("and this matters more than their argument because…").
 2. Exclusion → no buy-in *because* people have no peaceful channel to dissent.
 3. No buy-in → policy is fragile *because* even correct policy fails when seen as illegitimate.
 
+### Enfranchisement / Electoral Incentive  *(any franchise-expansion/restriction motion — a specialisation of Capture, keyed to the voter base not funders)*
+**Aff (give the group the vote → policy serves them):**
+1. Group gains the vote → politicians must court them *because* re-election now depends on their support.
+2. Courting → platforms shift toward the group *because* ignoring a voting bloc costs seats.
+3. Shifted platforms → better-targeted policy *because* the group's interests finally carry electoral weight.
+
+**CF (group can't vote → policy ignores them):** 1. No vote → they carry no electoral consequence. 2. No consequence → politicians deprioritise them. 3. Deprioritised → their interests are underserved *because* nobody pays a price for neglecting them.
+
+> **Weakest link:** Aff link 2 (courting → real shift). Opp attacks bloc size (16–17s are ~2–3% of the electorate) or "virtual representation." Defend: close races turn on marginal blocs; the group's interests genuinely diverge (schools, digital privacy).
+> **They say → I say:** *They say:* too small a bloc to move platforms. → *I say:* close races hinge on marginal blocs, and parties court future loyalty — Austria shows they actually vote. *(blocks: [[prop-16yo-are-stakeholders]], [[prop-first-vote-builds-lifelong-habit]])*
+
 ---
 
 ## TECHNOLOGY & MEDIA
@@ -228,6 +396,26 @@ each ("and this matters more than their argument because…").
 1. Status quo → the algorithm maximizes engagement *because* that drives ad revenue.
 2. Engagement-max → outrage is amplified *because* anger and fear are the most engaging content.
 3. Amplified outrage → polarization *because* users are funneled into self-confirming extremes.
+
+### Engineered Addiction / Dopamine Loop  *(Prop justifying removal — distinct from Engagement Algorithms, which ends in polarization not addiction)*
+**Aff (ban → addiction broken → wellbeing):**
+1. Ban → access removed *because* the product is taken off the market for the user group.
+2. No access → the compulsion loop breaks *because* the variable-reward trigger (infinite scroll, hidden clocks) is gone.
+3. Broken loop → attention and mood recover *because* the brain is no longer conditioned to constant high-stimulation reward.
+
+**CF (access remains → addiction persists):** 1. No ban → the engineered product stays. 2. Continued exposure → compulsion deepens. 3. Deepening → anxiety + attention collapse *because* the user can't self-limit against a system built to defeat self-control.
+
+> **Weakest link:** Aff link 3 (removal → recovery). Opp attacks **substitution** — kids move to another addictive medium (gaming, TV). Defend by scoping the ban + showing the harm (curated comparison, doom-scroll) is platform-specific.
+> **They say → I say:** *They say:* they'll just get addicted to something else. → *I say:* the specific harms are platform-designed; removing the engineered trigger lowers total compulsion even with some substitution. *(block: [[prop-break-dopamine-loops]])*
+
+### Social Comparison Injury / Curated-Feed Harm  *(Prop)*
+**Aff (remove feed → comparison stops → self-worth recovers):**
+1. Ban → curated feeds removed. 2. No feed → upward comparison stops *because* there's no stream of edited "ideal" lives to measure against. 3. No comparison → inadequacy/dysmorphia fall *because* self-worth isn't benchmarked against unattainable fakes.
+
+**CF (feed remains → comparison harms):** 1. No ban → curated feeds persist. 2. Persistent feed → constant upward comparison. 3. Constant comparison → dysmorphia, inadequacy, FOMO *because* the standard is unachievable and reads as personal failure.
+
+> **Weakest link:** Aff link 2. Opp: comparison predates and outlives social media (magazines, peers). Defend: platforms **industrialise and personalise** it 24/7 — scale becomes a difference in kind.
+> **They say → I say:** *They say:* comparison exists offline too. → *I say:* platforms make it constant, personalised, algorithmically amplified; literacy doesn't beat an engineered feed, removal does. *(block: [[prop-toxic-comparison]])*
 
 ---
 

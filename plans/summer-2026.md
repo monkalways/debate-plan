@@ -150,9 +150,10 @@ Current state:
   sets. **The file used daily** — feeds the Type Drill and every speed-write.
 - `arguments/mechanism-bank.md` 🟡 — Economy built (5 mechs + weakest-link tags +
   "they say → I say"); extend other themes to ~5 mechs/theme in their domain weeks.
-- `arguments/examples-bank.md` 🟡 — Economics done; fill the other 4 domains in their weeks.
+- `arguments/examples-bank.md` 🟡 — Economics (W1), IR & Security (W2), Science/Tech/Environment (W3) done; Society/Rights (W5) + Media (W6) still to fill.
 - `motions/worked-cases.md` 🟡 — 4 cases; grow toward ~15, keeping the "they say → I say" rows.
 - `reference/framing-and-style.md` ✅ — intros, signposting, rhetoric, style drills.
+- `arguments/templates/conclusion.md` ✅ — the 4-beat "land the plane" close + "write your last line first" rule + 20-sec drill (his #1 recurring fix).
 - **Rebuttal material has no separate file** — it lives *inside* the mechanism bank
   (weakest-link tags + "they say → I say") and the worked cases. Don't go looking for a
   `rebuttal-bank.md`; that's by design.
