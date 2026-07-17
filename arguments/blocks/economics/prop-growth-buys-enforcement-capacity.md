@@ -22,5 +22,5 @@ THEY SAY → I SAY:
   They say: rich countries polluted their way up and never cleaned it.  → I say: clean-tech is now cheap so developing states can leapfrog [[examples-bank#Renewable cost collapse]], and only a funded state can enforce anything.
 
 SOURCE: day-6.md · T1 · scored 6.5 — MIXED — coach: the real mechanism is here (6:45 "governments with no money can't enforce laws") but buried under the millionaire-vs-homeless analogy AND undercut by conceding growth harms the environment (4:44 "maybe worse for the environment… we cut down more trees"). ⚠️ ANTI-PATTERN: cut that self-concession — it hands opp the case on THIS motion. Lead with the mechanism.
-LINKS: [[mechanism-bank#State-Capacity / Development-First]] · [[mechanism-bank#Public Goods / Under-Provision]] · [[examples-bank#China's poverty reduction]] · [[examples-bank#Renewable cost collapse]] · used in [[day-6]]
+LINKS: [[mechanism-bank#State-Capacity / Development-First]] · [[mechanism-bank#Public Goods / Under-Provision]] · [[examples-bank#China's poverty reduction]] · [[examples-bank#Renewable cost collapse]] · used in [[day-6]] · [[day-13]]
 TAGS: #side/prop #type/comparative #theme/economics #theme/science #mechanism/state-capacity #stakeholder/developing-states #principle/capacity

@@ -28,7 +28,7 @@ animal-research case lives in both `ethics/` (rights limb) and `science-environm
 | `opp-cash-transfer-work-disincentive-dilemma` 🔁 | Opp | livable-or-not fork defeats any guaranteed-income case | ✅ 7.0 — genuine logical fork; ⚠️ Finland stat fabricated |
 | `opp-universal-boost-is-no-boost` 🔁 | Opp | equal rise closes no gap (relative-gains weigh) | ✅ 7.0 — "university-level move" |
 
-## politics/ (5)
+## politics/ (9)
 | Block | Side | What it does | Status |
 |---|---|---|---|
 | `prop-16yo-are-stakeholders` | Prop | the vote forces politicians to serve an ignored group | ✅ 7.0 — Austria load-bearing |
@@ -36,8 +36,12 @@ animal-research case lives in both `ethics/` (rights limb) and `science-environm
 | `prop-franchise-is-choice-not-competence` 🔁 | Prop | voting is voice, not a knowledge test | ✅ 7.0 — the inexperience-guarantees-inexperience turn |
 | `prop-dont-apply-a-test-we-spare-adults` 🔁 | Prop | reject any bar on the young we don't put on adults | ✅ 7.0 — named opp's best line and beat it |
 | `prop-fiat-precedent-enforceability` 🔁 | Prop | answers "unenforceable" with precedent + fiat | ✅ 7.5 — ⚠️ don't hide behind fiat to dodge a real harm |
+| `prop-compulsory-voting-mandate` | Prop | universal turnout → a mandate everyone accepts | ✅ 7.5 — keep the additive bridge, never a bailout |
+| `prop-compulsory-voting-equal-voice` | Prop | compel turnout → politicians must court the poor | ✅ 7.5 — script the scope-weigh verbatim |
+| `prop-informal-votes-wash-both-worlds` 🔁 | Prop | "forced turnout = junk votes" fails (~5% honest cost) | ✅ 7.5 — call it *informal*, not "donkey" |
+| `prop-turnout-skew-not-neutral-wash` 🔁 | Prop | abstention isn't neutral → compulsion moves the median | ✅ 7.5 — the Gerald/John turn |
 
-## society/ (9)
+## society/ (12)
 | Block | Side | What it does | Status |
 |---|---|---|---|
 | `prop-break-dopamine-loops` | Prop | ban breaks engineered addiction → mental health recovers | ✅ 7.25 — magnitude+irreversibility weigh |
@@ -49,8 +53,11 @@ animal-research case lives in both `ethics/` (rights limb) and `science-environm
 | `prop-inheritance-kills-self-fulfilment` | Prop | unearned wealth removes the striving that gives meaning | ⚠️ 5.0 — caricature; ignores poor-family mobility |
 | `prop-testator-freed-to-spend` | Prop | abolition frees retirees to enjoy their own money | ◐ 5.0 — gutted by his own gifting carve-out |
 | `prop-tax-improves-mental-health` | Prop | cutting sugar → better mental health | ⚠️ 5.5 — false "350×" stat; over-claim caution |
+| `opp-legalising-a-boost-coerces-everyone` | Opp | legalise a boost → everyone coerced into an arms race | ✅ 6.75→7.25 — kills the "free choice" pillar |
+| `opp-legalising-spreads-harm-not-shrinks-it` 🔁 | Opp | "regulate vs black market" → legalising SPREADS harm | ✅ 7.25 — the harm-reduction backfire shield |
+| `opp-elite-behaviour-cascades-to-youth` | Opp | pros' behaviour → juniors copy → irreversible youth harm | ✅ 7.25 — the drop Prop never answered |
 
-## ethics/ (5)
+## ethics/ (10)
 | Block | Side | What it does | Status |
 |---|---|---|---|
 | `opp-moral-agency-rights-denial` | Opp | rights track agency → animals owed welfare, not inviolability | 🏆 7.75 NEW BEST — the two-layer defense |
@@ -58,14 +65,20 @@ animal-research case lives in both `ethics/` (rights limb) and `science-environm
 | `prop-addiction-vitiates-consent` 🔁 | Prop | engineered addiction voids the "free choice" defence | ✅ 7.25 — "university-level," his best 15 seconds |
 | `opp-dignity-is-material-not-cash` 🔁 | Opp | dignity = security + work, not a handout (value-reframe) | ✅ 7.25 — redefined + contested on 3 prongs |
 | `prop-poverty-is-also-irreversible` 🔁 | Prop | irreversibility cuts both ways — poverty is too | ✅ 6.5 — turned opp's trump card two ways |
+| `opp-sport-is-human-excellence-not-chemistry` 🔁 | Opp | telos frame: sport is human excellence, not chemistry | ✅ 7.25 — first pure value/"what is X for" frame |
+| `prop-coercion-voids-title` | Prop | looted/coerced goods were never owned — time ≠ laundering | ✅ 6.5 — the restitution root |
+| `prop-access-without-ownership` 🔁 | Prop | access ≠ possession (loans/digital); "universal" = paywalled | ✅ 7.0 — rebuts the encyclopaedic-museum line |
+| `prop-ownership-vs-custody` 🔁 | Prop | return the title, loan the object back — dissolves preservation | ◐ 7.0 — great distinction, under-framed |
+| `prop-stewardship-of-stolen-goods` 🔁 | Prop | caring for it well ≠ owning it; ownership decides preservation | ✅ 6.5 — the subsume, collapsed verbatim |
 
-## science-environment/ (4)
+## science-environment/ (5)
 | Block | Side | What it does | Status |
 |---|---|---|---|
 | `opp-zoos-prevent-extinction` | Opp | captive breeding is the last line against extinction | ✅ 8.0 weighing — deepest impact warrant ("genetic print") |
 | `opp-research-saves-lives` | Opp | banning animal research strips the drug pipeline | ✅ 7.25 evidence — the PETA opponent-turn |
 | `prop-poor-nations-emit-negligibly` | Prop | a poor nation greening itself barely moves the total | ✅ 6.5 — best-evidenced beat |
 | `opp-alternatives-supplement-not-replace` 🔁 | Opp | organoids/sim supplement, don't replace whole-animal tests | ◐ T1 flop → T2 ~70% — plugs his #1 strategic gap |
+| `prop-green-growth-presupposes-capacity` 🔁 | Prop | "green growth / don't choose" fails — the clean grid needs the capacity growth builds | ◐ 6.5 — sound arg, buried under new matter in the reply |
 
 ---
 

@@ -279,7 +279,7 @@ stays abstract. One vivid, accurate example per argument is worth three assertio
 
 ---
 
-# Politics & Governance  *(Week 4 domain — seeded from distilled Day 4–5)*
+# Politics & Governance  *(Week 4 domain — distilled Days 4–5, 12)*
 
 ## Franchise & turnout
 
@@ -293,11 +293,23 @@ stays abstract. One vivid, accurate example per argument is worth three assertio
 - *Use it for:* habit-formation ("first vote in a stable setting sticks"), [[prop-first-vote-builds-lifelong-habit]].
 - *Weakest link:* survey estimate, and a HIGH-salience one-off referendum; the home/family effect partly explains it — concede the scaffold, then argue that *is* the habit mechanism. Say "an estimated ~three-quarters vs ~half."
 
+## Compulsory voting  *(distilled, Day 12)*
+
+**Australia — compulsory voting (since 1924)** · turnout / compulsory-voting · prop
+- Compulsory since the 1924 amendment; turnout jumped from **58.7% (1922) → 91.4% (1925)** and has stayed **~90%+** since. The **informal (spoiled/invalid) ballot rate is ~5%** (2025 House of Reps ≈5.5%); true "donkey votes" (numbered straight down the page) are only ~**1–2%**. ✅ Verified (AEC).
+- *Use it for:* compulsory-voting mandate + equal-voice; the "~5% is a small honest cost" shield. Powers [[prop-compulsory-voting-mandate]], [[prop-compulsory-voting-equal-voice]], [[prop-informal-votes-wash-both-worlds]].
+- *Weakest link:* say "under 60% to over 90%" (NOT "50%→90%"), and call ~5% the **informal** rate, NOT "donkey votes" — a sharp opp catches the mislabel, and a raw informal rate is arguably *their* evidence unless you frame it as the small honest cost.
+
+**Canada — 2025 federal turnout** · turnout · prop-on-compulsory-voting (status-quo baseline)
+- The 45th general election (Apr 28, 2025) drew **69.0%** turnout of registered electors — highest since 1993 — so **~31% didn't vote**. ✅ Verified (Elections Canada).
+- *Use it for:* the status-quo "minority mandate" problem a compulsory-voting Prop fixes — the third of the electorate that stayed home could have changed the result. Powers [[prop-compulsory-voting-mandate]].
+- *Weakest link:* it's turnout of *registered* electors (voting-age-population turnout is a bit lower); 69% is actually *high* for a voluntary system — frame it "even our best case leaves a third silent," not "turnout is collapsing."
+
 ---
 
 ## Key facts to memorise for this domain
 - **Austria (votes at 16 since 2007)** + **Scotland (2014 referendum, ~75% of 16–17s voted)** = the twin "16-year-olds turn out AND vote seriously" cases — the backbone of any lower-the-voting-age case.
-- *(More politics/governance examples to be added as those motions are drilled.)*
+- **Australia (compulsory since 1924, ~90%+ turnout, ~5% informal)** + **Canada (2025 ≈ 69% turnout, ~31% absent)** = the compulsory-vs-voluntary pair — the backbone of any compulsory-voting case. Call ~5% the *informal* rate, not "donkey votes".
 
 ---
 
@@ -319,8 +331,42 @@ stays abstract. One vivid, accurate example per argument is worth three assertio
 > SQ Magazine "80/20 passive/active" social-media split (publication real, exact figure unlocated).
 > Verify before citing in a round.
 
+## Sport, doping & the body  *(distilled, Day 14)*
+
+**Anabolic steroids — long-term harm** · sport / doping / health · opp-on-PEDs
+- Long-term high-dose anabolic-androgenic steroid use is linked to serious, partly **irreversible** harm: cardiovascular damage (cardiomyopathy — an enlarged, weakened heart — atherosclerosis, hypertension, raised sudden-cardiac-death risk) and endocrine disruption (the body's own testosterone/fertility system stays suppressed). Some heart changes persist after stopping. ✅ Verified.
+- *Use it for:* the health-harm limb of any PED/doping motion, or any "the regulated version is still dangerous" turn. Powers [[opp-legalising-spreads-harm-not-shrinks-it]].
+- *Weakest link:* state it as a *general, documented, partly-irreversible* harm — **NO invented percentages** (zero-fabrication rule). "Serious, documented, doesn't fully reverse" is enough.
+
+**Adolescent steroids — stunted growth** · sport / doping / youth-harm · opp-on-PEDs
+- In teenagers whose bones are still growing, anabolic steroids can trigger **premature closure of the growth plates (epiphyseal plates)** — once closed, bones can't lengthen, so the person ends up **permanently shorter** than their genetic potential. Irreversible. ✅ Verified.
+- *Use it for:* the junior-cascade / "harm reaches the young" limb — the irreversible, non-consenting-victim impact adult-autonomy can't touch. Powers [[opp-elite-behaviour-cascades-to-youth]], [[opp-legalising-spreads-harm-not-shrinks-it]].
+- *Weakest link:* Grade-8 phrasing — "in a still-growing teen these drugs slam the growth plates shut early, so the bones stop lengthening." No numbers needed.
+
+
 ---
 
 ## Key facts to memorise for this domain
 - **Teens ~8h39m/day screen media** (Common Sense 2021) + **only ~32% prefer in-person** (Time 2018) = the "engineered over-use + eroded real connection" pair for social-media motions.
-- *(More society/media/ethics examples to be added as those motions are drilled.)*
+- **Anabolic steroids = serious, partly-irreversible heart + hormone harm; in teens they slam the growth plates shut (permanently shorter)** — the health + junior-cascade limbs of any doping motion (no invented figures).
+
+---
+
+# History, Culture & Restitution  *(distilled, Day 19)*
+
+## Colonial looting & repatriation
+
+**Benin Bronzes** · restitution / colonial looting · prop-on-repatriation
+- Looted by British forces in the **1897 Punitive Expedition** — Benin City burned, the royal palace stripped, thousands of bronzes and ivories taken as "spoils of war" (not purchased). Now scattered across **100+ museums**. Returns have begun: **Germany transferred ownership of 1,000+ bronzes to Nigeria (2022)** — the largest repatriation of African art in history — and London's **Horniman Museum agreed to return 72 (2022)**; the **British Museum has returned none** (blocked by the 1963 British Museum Act). ✅ Verified.
+- *Use it for:* the illegitimate-title / restitution mechanism — a *documented* looting (not a murky purchase), the clean case that beats "you can't unpick every acquisition." Powers [[prop-coercion-voids-title]], [[prop-stewardship-of-stolen-goods]].
+- *Weakest link:* say "**looted in an 1897 military raid**" (rock-solid) + "**some institutions have started returning them**"; do NOT claim the British Museum returned them (it hasn't). Round numbers ("thousands of bronzes," "over a hundred museums").
+
+**2025 Louvre heist** · museum security / concentration-risk · prop-on-dispersing-artifacts
+- On **19 Oct 2025**, thieves used a truck-mounted ladder to enter the Galerie d'Apollon and stole **eight pieces of the French Crown Jewels** (~€88M) in **under 8 minutes**, during opening hours; a crown was dropped/damaged in the escape. ✅ Verified.
+- *Use it for:* the "concentration = higher-value target" turn against preservation — *"hoarding the world's treasures in one building is what makes the Louvre worth robbing; concentration raises the risk, it doesn't lower it."* Powers [[prop-stewardship-of-stolen-goods]].
+- *Weakest link:* it's ONE incident — argue the **mechanism** (concentration raises the payoff), don't overclaim dispersal is always safer; ONE clean sentence, don't wander into the "Queen Victoria's crown / 50-year plan" movie (it sank the Day-19 speech).
+
+---
+
+## Key facts to memorise for this domain
+- **Benin Bronzes** (looted in the 1897 raid; Germany + Horniman have begun returning, British Museum hasn't) = the clean *documented-looting* case for repatriation. + **2025 Louvre heist** (8 crown jewels, <8 min) = "concentration raises theft risk." Argue the mechanism, don't overclaim.

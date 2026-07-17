@@ -22,5 +22,5 @@ THEY SAY → I SAY:
   They say: it's a false choice, do both.  → I say: resources are finite and prioritisation is the whole motion — a dollar on one is a dollar off the other.
 
 SOURCE: day-6.md · T1 · scored 6.5 — LANDED ✅ — coach: his strongest, "unturnable" line, a clean stakeholder-priority weigh (6:04 "protect our people, not our squirrels"). Fix: lead with this as Arg 1 instead of burying it.
-LINKS: [[examples-bank#Extreme poverty decline]] · [[examples-bank#China's poverty reduction]] · used in [[day-6]]
+LINKS: [[examples-bank#Extreme poverty decline]] · [[examples-bank#China's poverty reduction]] · used in [[day-6]] · [[day-13]]
 TAGS: #side/prop #type/comparative #theme/economics #theme/ethics #stakeholder/citizens #principle/state-duty

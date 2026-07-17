@@ -62,7 +62,7 @@ Pre-flight order — **do it in this sequence, every time:**
   re-capture, re-score. *(This two-take cycle is where most of your point gains have come from.)*
 
 ### ☐ 7. Close-out & log (3 min)
-- Log the score(s) to `plans/progress.md`.
+- **Log the score(s) to `plans/progress.md` — EVERY day, no exceptions.** Non-negotiable: add a table row per take + refresh the open items, as the automatic close-out of the grade. Never defer it to "later."
 - **Last-8-seconds drill:** rehearse only the button a few reps — groove the *stop*.
 - Note today's **misses + tomorrow's #1 fix** (feeds Part A rotation + tomorrow's focus line).
 

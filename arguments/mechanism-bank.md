@@ -16,7 +16,7 @@ each ("and this matters more than their argument because…").
 > ⚠️ **Scaffolds, not scripts.** These are structures to *adapt*, never lines to recite. If a chain sounds memorised, you've used it wrong — judges punish canned delivery. The **weakest-link** tags are there to make you think, not parrot.
 
 > 🔎 Mechanisms tagged with a *(block: [[…]])* link were **distilled from Lucas's own graded
-> speeches (Days 1–11)** by the `distill-arguments` skill — the block shows where the chain fired and how it scored.
+> speeches (Days 1–19)** by the `distill-arguments` skill — the block shows where the chain fired and how it scored.
 
 ---
 
@@ -264,6 +264,35 @@ each ("and this matters more than their argument because…").
 
 ---
 
+## COERCION & COLLECTIVE HARM
+
+### Arms Race / Coercive Escalation  *(any "legalise/permit X → everyone forced into X" motion — the domestic twin of the IR security dilemma)*
+**Aff (permit the boost → coerced escalation → universal harm):**
+1. Permit an advantage-conferring boost → some adopt it *because* in a win-driven field, any edge gets taken.
+2. Some adopt → the rest are coerced in *because* abstaining now means losing — "opt out" = "opt to lose," not a free choice.
+3. All in → doses/intensity escalate *because* each must out-boost rivals; access has a floor but ambition has no ceiling (only one can lead at a time — the security-dilemma shape).
+
+**CF (keep the ban → harm stays a deterred minority):**
+1. Ban → the boost carries a career-ending penalty *because* getting caught costs everything.
+2. Penalty → most abstain *because* the risk outweighs the edge.
+3. Most abstain → harm is confined to a hidden few *because* the deterrent holds the line.
+
+> **Weakest link:** Aff link 2 (some adopt → all coerced). Attacks: a competitor can rationally decline and accept a lower placing (not everyone maximises); or testing/enforcement keeps adoption low even when legal. Defend by showing the field is genuinely zero-sum at the top (winning is the point) and "accept losing" isn't a real choice for a pro whose livelihood is the ranking.
+> **They say → I say:** *They say:* athletes are consenting adults, so it's free choice. → *I say:* the choice dies the moment rivals adopt — their own side conceded "not every athlete would choose this," which is exactly the coercion. *(block: [[opp-legalising-a-boost-coerces-everyone]]; structural twin of [[mechanism-bank#Deterrence / Security Dilemma]])*
+
+### Harm-Reduction Backfire / Universalised Harm  *(the shield to "legalise-and-regulate is safer than the black market")*
+**Aff (legalise-to-regulate → harm spreads, not shrinks):**
+1. Legalise → the whole field enters, not just today's shadow users *because* what was a hidden minority becomes the compulsory norm.
+2. Everyone in → doses climb *because* regulation sets an access floor, not an ambition ceiling (cross-link the arms race).
+3. Bigger pool + higher doses + no deterrent → harm cascades to the vulnerable (juniors/amateurs) *because* the penalty that kept them out is gone.
+
+**CF (keep the ban → harm confined):** 1. Ban → harm stays with a deterred minority *because* the penalty deters most. 2. Confined pool → total harm is bounded *because* fewer users, and the vulnerable stay out. 3. Bounded harm → the vulnerable are protected *because* the deterrent signal reaches furthest down.
+
+> **Weakest link:** Aff link 1 (legalising floods the pool). Prop attacks: regulation could cap participation/doses (licences, medical gatekeeping), so "everyone in" is false; and moving existing users into supervision genuinely cuts *their* risk. Defend by measuring TOTAL harm (per-user risk × users × dose), not per-user safety, and by showing a cap collapses once the behaviour is the visible legal norm.
+> **They say → I say:** *They say:* regulation is safer than the dangerous black market. → *I say:* concede the black market is real — but you don't shrink the harm, you spread it: safer-per-user × far-more-users × climbing doses × the junior cascade = more total damage. *(block: [[opp-legalising-spreads-harm-not-shrinks-it]]; mirror-image of [[opp-reform-not-ban-hospital-shield]])*
+
+---
+
 ## ENVIRONMENT
 
 ### Tragedy of the Commons
@@ -311,6 +340,7 @@ each ("and this matters more than their argument because…").
 
 > **Weakest link:** Aff link 3 — assumes capacity is *spent* on the environment (pollution-haven / Kuznets risk). Defend with cheap clean-tech now + the enforcement-failure of broke states.
 > **They say → I say:** *They say:* growth locks in irreversible damage before capacity arrives. → *I say:* poverty is degrading the environment *now*, and an unenforceable ban doesn't stop it. *(block: [[prop-growth-buys-enforcement-capacity]])*
+> *They say:* green growth means no trade-off — leapfrog to renewables. → *I say:* the clean grid is huge upfront capital a subsistence state can't front, so ‘leapfrogging’ stalls without a tax base first — you need growth to afford the green path. *(block: [[prop-green-growth-presupposes-capacity]])*
 
 ### Negligible-Contributor Futility  *(cross-link Ladder-Pulling & Free-Riding — the benefit-side arithmetic)*
 **Aff (small emitter opts out → little lost):**
@@ -337,6 +367,21 @@ each ("and this matters more than their argument because…").
 1. Status quo → the institution answers to its funders *because* they control its survival.
 2. Funder control → biased decisions *because* conflicts resolve toward the powerful.
 3. Bias → the harmed have no recourse *because* they have no voice in the structure.
+
+### Illegitimate Title / Restitution  *(Prop — restitution / repatriation / reparations motions; "return X to its rightful owner")*
+**Aff (wrongful taking → void title → return owed):**
+1. Taken by force/coercion → no valid transfer *because* a coerced party can't give real consent, so no ownership ever passed.
+2. No valid transfer → the current holder has custody, not title *because* possessing stolen goods ≠ owning them; the original claim never extinguished.
+3. Surviving claim + time doesn't launder it → return is owed *because* a wrong doesn't become right by ageing — else every thief just waits it out.
+
+**CF (accept possession as ownership → theft rewarded):** 1. Treat long possession as title → the taker is deemed owner. 2. Deemed owner → the wrong is legitimised *because* holding it becomes a claim to keep it. 3. Legitimised → future takings are incentivised *because* force plus time now equals ownership.
+
+> **Weakest link:** Aff link 3 — opp's "floodgates: you'd empty every museum / unpick every deal centuries back." Defend by SCOPING to *documented* coerced/looted takings (a punitive raid, not a murky old purchase) — the clear cases, not every acquisition; age isn't the test, the manner of taking is.
+> **Two sub-moves ride on this chain:**
+> - **Access ≠ possession:** share via loans/touring/digital/replicas without holding title; "universal access" in a foreign capital is really gated behind money + visas. *(block: [[prop-access-without-ownership]])*
+> - **Ownership ≠ custody:** return the title, loan the object back for safekeeping — dissolves the preservation objection without conceding ownership. *(block: [[prop-ownership-vs-custody]])*
+> **They say → I say:** *They say:* but we preserve it better than they can. → *I say:* stewardship of stolen goods is still stolen goods — ownership decides preservation, not the reverse; offer conservation support, don't keep what you took. *(block: [[prop-stewardship-of-stolen-goods]])*
+> *They say:* it belongs to all humanity, no one nation owns the ancient past. → *I say:* that contradicts "we hold legal title" — pick one; and universal heritage is served by sharing, not one capital hoarding it. *(block: [[prop-coercion-voids-title]])*
 
 ### Coordination / Free-Riding
 **Aff (institution → cooperation holds):**
@@ -370,6 +415,31 @@ each ("and this matters more than their argument because…").
 
 > **Weakest link:** Aff link 2 (courting → real shift). Opp attacks bloc size (16–17s are ~2–3% of the electorate) or "virtual representation." Defend: close races turn on marginal blocs; the group's interests genuinely diverge (schools, digital privacy).
 > **They say → I say:** *They say:* too small a bloc to move platforms. → *I say:* close races hinge on marginal blocs, and parties court future loyalty — Austria shows they actually vote. *(blocks: [[prop-16yo-are-stakeholders]], [[prop-first-vote-builds-lifelong-habit]])*
+
+### Mandate / Universal-Turnout Legitimacy  *(Prop — compulsory-voting / turnout motions; the acceptance side of legitimacy)*
+**Aff (universal turnout → mandate → acceptance):**
+1. Everyone votes → the winner reflects the whole population *because* no large bloc is missing from the count.
+2. Full mandate → even losers accept the result *because* it was fully and fairly decided, not won on a minority.
+3. Broad acceptance → durable, legitimate government *because* compliance rests on a result people had a real part in.
+
+**CF (partial turnout → thin mandate → distrust):**
+1. Voluntary turnout → the winner rests on a minority of eligible adults *because* a third or more never voted.
+2. Thin mandate → the unrepresented feel unheard *because* the outcome doesn't reflect them.
+3. Feeling unheard → distrust & disengagement *because* people withdraw from a system they think ignores them (a legitimacy doom-loop).
+
+> **Weakest link:** Aff link 2 (full mandate → losers accept). Opp says losers reject results regardless of turnout. Defend: acceptance is *comparative* — a result the whole demos decided is harder to dismiss as unrepresentative than one built on a third of them.
+> **They say → I say:** *They say:* forced turnout = uninformed ballots polluting the mandate. → *I say:* compulsion is only to show up (spoiling is allowed); most inform themselves, and informal ballots are ~5% — a small honest cost. *(blocks: [[prop-compulsory-voting-mandate]], [[prop-informal-votes-wash-both-worlds]])*
+
+### Turnout Skew / Differential Participation  *(Prop — compulsory voting; a specialisation of Enfranchisement keyed to who *shows up*, not who *may* vote)*
+**Aff (compel turnout → the ignored gain weight → fairer policy):**
+1. Voluntary turnout skews rich/old *because* the poor/young face higher barriers and lower efficacy.
+2. Compel turnout → politicians must court the previously-absent *because* ignoring them now costs seats.
+3. Courting the ignored → policy shifts toward them *because* their interests finally carry electoral weight.
+
+**CF (voluntary turnout → the absent are ignored):** 1. The poor/young abstain *because* of barriers + learned futility. 2. Non-voters carry no electoral consequence → politicians deprioritise them. 3. Deprioritised → policy is written for the reliable voter, not the whole public.
+
+> **Weakest link:** Aff link 3 (courting → real policy shift) AND the hidden premise that abstention is *non-random* (else it's a wash). Defend both: barriers fall on identifiable groups, so the skew is systematic, not neutral. *(cross-link [[mechanism-bank#Enfranchisement / Electoral Incentive]] — that's franchise-*denial*; here they can vote but don't.)*
+> **They say → I say:** *They say:* it's a wash — every non-voting Liberal offsets a non-voting Conservative. → *I say:* abstention correlates with ideology/circumstance (anti-government + poor abstain more), so compelling them moves the *median* voter, not just the count. *(blocks: [[prop-compulsory-voting-equal-voice]], [[prop-turnout-skew-not-neutral-wash]])*
 
 ---
 
